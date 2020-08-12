@@ -24,19 +24,17 @@
 </div>
 <div align="center">  
 
-[Projects](https://github.com/will-head/CV#projects) |
 [Skills](https://github.com/will-head/CV#skills) |
+[Projects](https://github.com/will-head/CV#projects) |
 [Education](https://github.com/will-head/CV#education) |
 [Experience](https://github.com/will-head/CV#experience) |
 [Interests](https://github.com/will-head/CV#interests)
 
 </div>
 
-I'm a web developer with commercial experience, having worked in technology for my whole career: creating it for deployment in a live environment, writing about it for magazines and websites, and explaining it in videos that have been watched over 25 million times.
+I'm a web developer with commercial experience, having worked in technology for my whole career: creating it to solve real-world business problems, writing about it for magazines and websites, and explaining it in videos that have been watched over 25 million times.
 
-I've run my own company for many years, so I can manage projects from inception to completion; working autonomously when required to assembling and managing a team, to successfully deliver large projects on time and on budget.
-
-In addition to project management I was responsible for delivering all technical projects for the company.
+I've run my own company for many years, so I can manage projects from inception to completion; working autonomously when required to assembling and managing a team, to successfully deliver large projects on time and on budget. I am responsible for delivering all technical projects for the company.
 
 #### Key Skills
 - Languages: Ruby, Javascript, Java, PHP, C++, HTML, CSS
@@ -45,5 +43,4 @@ In addition to project management I was responsible for delivering all technical
 - Testing: RSpec, Capybara, Jest, Jasmine, Cypress
 - Tools: Git, Travis, RuboCop, ESLint, Bash
 
-You can read my full CV here:  
-[https://github.com/will-head/CV](https://github.com/will-head/CV)
+You can read my full CV here: [https://github.com/will-head/CV](https://github.com/will-head/CV)
