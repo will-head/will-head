@@ -26,15 +26,15 @@
 
 [Skills](https://github.com/will-head/CV#skills) |
 [Projects](https://github.com/will-head/CV#projects) |
-[Education](https://github.com/will-head/CV#education) |
 [Experience](https://github.com/will-head/CV#experience) |
-[Interests](https://github.com/will-head/CV#interests)
+[Education](https://github.com/will-head/CV#education)
 
 </div>
 
-I'm a web developer with commercial experience, having worked in technology for my whole career: creating it to solve real-world business problems, writing about it for magazines and websites, and explaining it in videos that have been watched over 25 million times.
+I'm a web developer with experience creating and maintaining websites for my own company. I have supplemented this experience by attending a web developer bootcamp at Makers Academy, in order to learn how to apply my skills to a professional software team environment and refresh my Computer Science degree.
 
-I've run my own company for many years, so I can manage projects from inception to completion; working autonomously when required to assembling and managing a team, to successfully deliver large projects on time and on budget. I am responsible for delivering all technical projects for the company.
+In addition to my technical skills, I bring a wealth of experience of project management, from running my own company, and I’m an accomplished technical writer, having written for over thirty international technology publications as a freelance journalist.
+
 
 #### Key Skills
 - Languages: Ruby, Javascript, Java, PHP, C++, HTML, CSS
